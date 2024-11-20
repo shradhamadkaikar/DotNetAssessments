@@ -1,0 +1,10 @@
+E:\DotNetTraining\FileIOAssesment\bin\Debug\FileIOAssesment.exe.config
+E:\DotNetTraining\FileIOAssesment\bin\Debug\FileIOAssesment.exe
+E:\DotNetTraining\FileIOAssesment\bin\Debug\FileIOAssesment.pdb
+E:\DotNetTraining\FileIOAssesment\obj\Debug\FileIOAssesment.csproj.AssemblyReference.cache
+E:\DotNetTraining\FileIOAssesment\obj\Debug\FileIOAssesment.Form1.resources
+E:\DotNetTraining\FileIOAssesment\obj\Debug\FileIOAssesment.Properties.Resources.resources
+E:\DotNetTraining\FileIOAssesment\obj\Debug\FileIOAssesment.csproj.GenerateResource.cache
+E:\DotNetTraining\FileIOAssesment\obj\Debug\FileIOAssesment.csproj.CoreCompileInputs.cache
+E:\DotNetTraining\FileIOAssesment\obj\Debug\FileIOAssesment.exe
+E:\DotNetTraining\FileIOAssesment\obj\Debug\FileIOAssesment.pdb
